@@ -46,6 +46,10 @@ body{
     margin-right: 325px;
 }
 
+::-webkit-scrollbar {
+    display: none;
+}
+
 .container .card{
     display: flex;
     flex-direction: column;
